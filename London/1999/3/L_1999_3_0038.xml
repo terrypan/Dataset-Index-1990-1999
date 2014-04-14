@@ -1191,7 +1191,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>

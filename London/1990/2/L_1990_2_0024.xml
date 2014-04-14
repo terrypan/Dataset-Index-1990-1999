@@ -1882,7 +1882,9 @@
     <MainItem>
       <Key>McKechnie</Key>
       <Forenames>A.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>

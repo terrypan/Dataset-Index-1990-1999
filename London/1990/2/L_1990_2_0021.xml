@@ -1680,44 +1680,46 @@
     <MainItem>
       <Key>Fretz</Key>
       <Text>M.P</Text>
-      <PageNumber>8248</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Friend</Key>
-      <Forenames>P. A.</Forenames>
-      <PageNumber>8564</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Frost</Key>
-      <Forenames>D. K.</Forenames>
-      <PageNumber>7897</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Frost</Key>
-      <Forenames>M.R.</Forenames>
-      <PageNumber>8818</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Frost</Key>
-      <Forenames>P. A.</Forenames>
-      <PageNumber>7290</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Fry</Key>
-      <Forenames>M. C.</Forenames>
-      <PageNumber>7658</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8248</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Friend</Key>
+        <Forenames>P. A.</Forenames>
+        <PageNumber>8564</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Frost</Key>
+        <Forenames>D. K.</Forenames>
+        <PageNumber>7897</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Frost</Key>
+        <Forenames>M.R.</Forenames>
+        <PageNumber>8818</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Frost</Key>
+        <Forenames>P. A.</Forenames>
+        <PageNumber>7290</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Fry</Key>
+        <Forenames>M. C.</Forenames>
+        <PageNumber>7658</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>

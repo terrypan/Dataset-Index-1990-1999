@@ -244,7 +244,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodder</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>8347</PageNumber>
     </MainItem>
   </ItemGroup>

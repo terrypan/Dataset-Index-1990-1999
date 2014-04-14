@@ -785,8 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookeborough</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>16041</PageNumber>
     </MainItem>
   </ItemGroup>

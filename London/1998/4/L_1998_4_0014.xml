@@ -539,7 +539,9 @@
     <MainItem>
       <Key>Card</Key>
       <Forenames>A.</Forenames>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>11901</PageNumber>
     </MainItem>
   </ItemGroup>

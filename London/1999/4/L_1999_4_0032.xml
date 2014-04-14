@@ -679,8 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>D.</Forenames>
-      <Text>de G</Text>
+      <Forenames>D.de G</Forenames>
       <PageNumber>11383</PageNumber>
     </MainItem>
   </ItemGroup>

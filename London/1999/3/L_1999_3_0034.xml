@@ -1356,7 +1356,9 @@
     <MainItem>
       <Key>St</Key>
       <Forenames>George</Forenames>
-      <Text>, CH.G</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>9592</PageNumber>
     </MainItem>
   </ItemGroup>

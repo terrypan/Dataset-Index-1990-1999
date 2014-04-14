@@ -865,17 +865,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, CD</Text>
+      <Key>De Burgh</Key>
+      <Text>CD</Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Carvalho</Forenames>
-      <Text>, M.L.M</Text>
+      <Key>De Carvalho</Key>
+      <Forenames>M.L.M</Forenames>
       <PageNumber>10354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,9 +893,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Polo</Forenames>
-      <Text>, M.J</Text>
+      <Key>De Polo</Key>
+      <Forenames>M.J</Forenames>
       <PageNumber>8619</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -311,8 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grafton</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>10828</PageNumber>
     </MainItem>
   </ItemGroup>

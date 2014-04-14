@@ -173,7 +173,9 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>J.</Forenames>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>12374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +367,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>11548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,15 +1144,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, S.M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>S.M</Forenames>
       <PageNumber>12374</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell.T</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T</Forenames>
       <PageNumber>11546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,22 +1165,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, J.B</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>J.B</Forenames>
       <PageNumber>14047</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, P.D</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>P.D</Forenames>
       <PageNumber>14051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, P</Text>
+      <Key>O'Grady</Key>
+      <Forenames>P</Forenames>
       <PageNumber>12091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,8 +1235,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H.E</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H.E</Forenames>
       <PageNumber>14488</PageNumber>
     </MainItem>
   </ItemGroup>

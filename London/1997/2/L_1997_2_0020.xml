@@ -192,8 +192,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Colan-O</Key>
-      <Text>'Leary, G.W</Text>
+      <Key>Colan-O'Leary</Key>
+      <Forenames>G.W</Forenames>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,9 +1519,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pasquale</Forenames>
-      <Text>, J.F</Text>
+      <Key>De Pasquale</Key>
+      <Forenames>J.F</Forenames>
       <PageNumber>6467</PageNumber>
     </MainItem>
   </ItemGroup>

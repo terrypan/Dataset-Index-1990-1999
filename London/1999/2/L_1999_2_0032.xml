@@ -1409,7 +1409,9 @@
     <MainItem>
       <Key>Holt</Key>
       <Forenames>D.</Forenames>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>

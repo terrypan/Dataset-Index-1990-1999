@@ -419,8 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>R. H. de S</Forenames>
       <PageNumber>8575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,8 +1436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tobin</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. O'H</Forenames>
       <PageNumber>10136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2062,8 +2060,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Van Der Der Weyden</Forenames>
+      <Key>Van Van</Key>
+      <Forenames>Der Der Weyden</Forenames>
       <Text>, Weyden, A. A. P</Text>
       <PageNumber>7381</PageNumber>
     </MainItem>

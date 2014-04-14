@@ -2,6 +2,13 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="013" pageID="https://www.thegazette.co.uk/id/London/index/year/1998/volume/3/page/013" pagePDF="https://www.thegazette.co.uk/London/index/year/1998/volume/3/page/013" pageRDF="https://www.thegazette.co.uk/London/index/year/1998/volume/3/page/013?view=linked-data" type="index" volume="3" year="1998">
   <ItemGroup>
     <MainItem>
+      <Key>van Arsdale</Key>
+      <Forenames>S.C</Forenames>
+      <PageNumber>7985</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vardy</Key>
       <Forenames>N.E</Forenames>
       <PageNumber>9960</PageNumber>
@@ -1052,8 +1059,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D.J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D.J</Forenames>
       <PageNumber>7369</PageNumber>
     </MainItem>
   </ItemGroup>

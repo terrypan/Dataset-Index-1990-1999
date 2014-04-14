@@ -1081,7 +1081,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bcatty</Key>
-      <Text>M.P. K</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>11048</PageNumber>
     </MainItem>
   </ItemGroup>

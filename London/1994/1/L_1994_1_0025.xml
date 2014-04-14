@@ -111,8 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leask</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C. L</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. L</Text>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1123,7 +1123,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morshead</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -350,8 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson-Houston</Key>
-      <Forenames>P.E.O</Forenames>
-      <Text>'R.-B</Text>
+      <Forenames>P.E.O'R</Forenames>
+      <Text>.-B</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,49 +578,44 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gale</Forenames>
-      <Text>, W.H</Text>
+      <Key>De Gale</Key>
+      <Forenames>W.H</Forenames>
       <PageNumber>2120</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lukacs Lessner De Szeged</Forenames>
+      <Key>De Lukacs</Key>
+      <Forenames>Lessner De Szeged</Forenames>
       <Text>, CJ.P</Text>
       <PageNumber>1493</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Maine</Forenames>
-      <Text>, M.J</Text>
+      <Key>De Maine</Key>
+      <Forenames>M.J</Forenames>
       <PageNumber>2425</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Maria</Forenames>
-      <Text>, S.L</Text>
+      <Key>De Maria</Key>
+      <Forenames>S.L</Forenames>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Normann</Forenames>
-      <Text>, J.R.C</Text>
+      <Key>De Normann</Key>
+      <Forenames>J.R.C</Forenames>
       <PageNumber>1494</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouffignac</Forenames>
-      <Text>, P</Text>
+      <Key>De Rouffignac</Key>
+      <Forenames>P</Forenames>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>

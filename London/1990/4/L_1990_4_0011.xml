@@ -991,15 +991,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil.S.M</Text>
+      <Key>O'Neil</Key>
+      <Forenames>S.M</Forenames>
       <PageNumber>16513</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, F.P</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>F.P</Forenames>
       <PageNumber>17201</PageNumber>
     </MainItem>
   </ItemGroup>

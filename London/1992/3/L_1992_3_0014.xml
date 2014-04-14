@@ -1616,7 +1616,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Butterfield</Key>
-      <Text>KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>11829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2030,7 +2032,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrillo</Key>
-      <Text>de Albornoz, R</Text>
+      <Forenames>de Albornoz</Forenames>
+      <Text>, R</Text>
       <PageNumber>14362</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -187,7 +187,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darby</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>10610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +571,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ferry Foster</Forenames>
+      <Key>De Ferry</Key>
+      <Forenames>Foster</Forenames>
       <Text>, R.J</Text>
       <PageNumber>11381</PageNumber>
     </MainItem>
@@ -584,41 +586,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Maria</Forenames>
-      <Text>, S.L</Text>
+      <Key>De Maria</Key>
+      <Forenames>S.L</Forenames>
       <PageNumber>11905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Planta De Wildenberg</Forenames>
+      <Key>De Planta</Key>
+      <Forenames>De Wildenberg</Forenames>
       <Text>, F.M.G</Text>
       <PageNumber>11383</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, R.D.P</Text>
+      <Key>De Silva</Key>
+      <Forenames>R.D.P</Forenames>
       <PageNumber>12735</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Thierry</Forenames>
-      <Text>, A.M.A</Text>
+      <Key>De Thierry</Key>
+      <Forenames>A.M.A</Forenames>
       <PageNumber>12179</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vial</Forenames>
-      <Text>,M.J.B</Text>
+      <Key>De Vial</Key>
+      <Forenames>M.J.B</Forenames>
       <PageNumber>10616</PageNumber>
     </MainItem>
   </ItemGroup>

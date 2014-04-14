@@ -1489,7 +1489,9 @@
     <MainItem>
       <Key>Cardiolab</Key>
       <Title>(UK)</Title>
-      <Text>, owned by Dr. C.H. Mortimer (deceased), Administrator's notice</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>11896</PageNumber>
     </MainItem>
   </ItemGroup>

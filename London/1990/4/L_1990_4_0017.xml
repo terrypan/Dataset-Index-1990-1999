@@ -341,8 +341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>E.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E.St. J</Forenames>
       <PageNumber>15451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,8 +1778,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgins</Key>
-      <Title>St.</Title>
-      <Forenames>D. M</Forenames>
+      <Title>St. D.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>17574</PageNumber>
     </MainItem>
   </ItemGroup>

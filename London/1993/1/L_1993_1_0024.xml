@@ -1467,25 +1467,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buisseret</Forenames>
-      <Text>, A. M</Text>
+      <Key>De Buisseret</Key>
+      <Forenames>A. M.</Forenames>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ferranti</Forenames>
-      <Text>, M. B. Z</Text>
+      <Key>De Ferranti</Key>
+      <Forenames>M. B. Z.</Forenames>
       <PageNumber>1870</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lrsle</Forenames>
-      <Text>(Viscount)</Text>
+      <Key>De Lrsle</Key>
+      <Title>(Viscount)</Title>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2167,9 +2164,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Port</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>

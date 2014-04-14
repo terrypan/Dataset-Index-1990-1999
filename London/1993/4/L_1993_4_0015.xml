@@ -675,8 +675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>T. C.</Forenames>
-      <Text>de E</Text>
+      <Forenames>T. C. de E</Forenames>
       <PageNumber>19458</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -24,7 +24,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurstan</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>12090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,17 +432,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beever</Forenames>
-      <Text>, J.G</Text>
+      <Key>Van Beever</Key>
+      <Forenames>J.G</Forenames>
       <PageNumber>12648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Maurik</Forenames>
-      <Text>, L.D</Text>
+      <Key>Van Maurik</Key>
+      <Forenames>L.D</Forenames>
       <PageNumber>11274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,9 +572,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Merveldt</Forenames>
-      <Text>, J.M</Text>
+      <Key>Von Merveldt</Key>
+      <Forenames>J.M.</Forenames>
       <PageNumber>13505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +701,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallwork</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>13785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,44 +994,46 @@
       <Key>Weir</Key>
       <Forenames>E.</Forenames>
       <Text>G.M</Text>
-      <PageNumber>14050</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weir</Key>
-      <Forenames>M.B.O.</Forenames>
-      <PageNumber>14488</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Welford</Key>
-      <Forenames>C.J</Forenames>
-      <PageNumber>13202</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Welham</Key>
-      <Forenames>M.L.</Forenames>
-      <PageNumber>14364</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wellard</Key>
-      <Forenames>T.L.</Forenames>
-      <PageNumber>11809</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weller</Key>
-      <Forenames>D.M</Forenames>
-      <PageNumber>13506</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>14050</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Weir</Key>
+        <Forenames>M.B.O.</Forenames>
+        <PageNumber>14488</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Welford</Key>
+        <Forenames>C.J</Forenames>
+        <PageNumber>13202</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Welham</Key>
+        <Forenames>M.L.</Forenames>
+        <PageNumber>14364</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wellard</Key>
+        <Forenames>T.L.</Forenames>
+        <PageNumber>11809</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Weller</Key>
+        <Forenames>D.M</Forenames>
+        <PageNumber>13506</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Welling</Key>

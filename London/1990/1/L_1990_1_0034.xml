@@ -37,33 +37,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, J. M</Text>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Pant</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Pant</Forenames>
       <Text>, J. C</Text>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eeden</Forenames>
-      <Text>, D. J</Text>
+      <Key>Van Eeden</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>3308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lare</Forenames>
-      <Text>, J.P</Text>
+      <Key>Van Lare</Key>
+      <Forenames>J.P.</Forenames>
       <PageNumber>1972</PageNumber>
     </MainItem>
   </ItemGroup>

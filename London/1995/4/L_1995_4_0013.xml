@@ -156,8 +156,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Horst</Forenames>
       <Text>, R. E</Text>
       <PageNumber>15370</PageNumber>
     </MainItem>

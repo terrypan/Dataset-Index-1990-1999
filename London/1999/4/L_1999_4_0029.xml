@@ -1172,6 +1172,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Eck</Key>
+      <Forenames>B.C</Forenames>
+      <PageNumber>12074</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vellam</Key>
       <Forenames>K</Forenames>
       <PageNumber>12176</PageNumber>

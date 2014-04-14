@@ -654,7 +654,9 @@
     <MainItem>
       <Key>Brain</Key>
       <Forenames>B. See Taylor</Forenames>
-      <Text>, R.D. Brandts Group Pension Scheme (formerly Brandts Timber Group Pension Scheme), notice under Trustee Act</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>14135</PageNumber>
     </MainItem>
   </ItemGroup>

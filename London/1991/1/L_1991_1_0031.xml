@@ -131,7 +131,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteside</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>4775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +893,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>M.P. B.G</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1061,9 @@
     <MainItem>
       <Key>Winwood</Key>
       <Forenames>C.</Forenames>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>

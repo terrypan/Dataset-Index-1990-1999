@@ -827,25 +827,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gale</Forenames>
-      <Text>, A. H</Text>
+      <Key>De Gale</Key>
+      <Forenames>A. H</Forenames>
       <PageNumber>11326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Labilliere</Forenames>
-      <Text>, J. A. D</Text>
+      <Key>De Labilliere</Key>
+      <Forenames>J. A. D.</Forenames>
       <PageNumber>13203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Torre</Forenames>
-      <Text>, M. E</Text>
+      <Key>De Torre</Key>
+      <Forenames>M. E</Forenames>
       <PageNumber>13210</PageNumber>
     </MainItem>
   </ItemGroup>

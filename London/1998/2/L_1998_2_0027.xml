@@ -1762,8 +1762,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Murphy-O</Key>
-      <Text>'Kane, N.R</Text>
+      <Key>Murphy-O'Kane</Key>
+      <Forenames>N.R.</Forenames>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>

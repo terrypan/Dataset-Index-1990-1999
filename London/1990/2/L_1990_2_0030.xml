@@ -735,8 +735,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Title>St.</Title>
-      <Forenames>Edmunds Housing Society Ltd</Forenames>
+      <Forenames>St. Edmunds Housing Society Ltd</Forenames>
       <Text>., dissolution notice</Text>
       <PageNumber>9852</PageNumber>
     </MainItem>

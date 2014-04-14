@@ -1793,8 +1793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Forenames>R. W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. W. de L</Forenames>
       <PageNumber>492</PageNumber>
     </MainItem>
   </ItemGroup>

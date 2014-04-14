@@ -16,8 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P. A</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P. A .</Forenames>
       <PageNumber>1918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1846,15 +1846,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H. M. The</Forenames>
+      <Forenames>H. M.</Forenames>
+      <Text>The</Text>
       <PageNumber>20680</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>Elizabeth The</Forenames>
-      <Text>Queen Mother, H. M</Text>
+      <Forenames>Elizabeth</Forenames>
+      <Text>The Queen Mother, H. M</Text>
       <PageNumber>337</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -860,7 +860,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Halsall</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>13202</PageNumber>
       <PageNumber>13786</PageNumber>
     </MainItem>

@@ -328,8 +328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greeves</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. A. de M</Forenames>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>

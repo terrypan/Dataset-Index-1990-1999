@@ -398,7 +398,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>1979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,8 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Forenames>M. J. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. A. St. J</Forenames>
       <PageNumber>7033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2201,7 +2202,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockwood</Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>

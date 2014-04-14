@@ -1947,16 +1947,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eeden</Forenames>
-      <Text>, D. J</Text>
+      <Key>Van Eeden</Key>
+      <Forenames>D. J</Forenames>
       <PageNumber>16677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praet</Forenames>
+      <Key>Van Praet</Key>
       <Text>DAmerloo, R. P. E. M.J</Text>
       <PageNumber>18857</PageNumber>
     </MainItem>

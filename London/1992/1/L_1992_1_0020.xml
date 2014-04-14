@@ -187,8 +187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnbrook</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,8 +586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>3792</PageNumber>
     </MainItem>
   </ItemGroup>

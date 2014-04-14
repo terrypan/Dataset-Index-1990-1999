@@ -1824,9 +1824,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Basten-Newell</Forenames>
-      <Text>, G. P</Text>
+      <Key>Van Basten-Newell</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>14659</PageNumber>
     </MainItem>
   </ItemGroup>

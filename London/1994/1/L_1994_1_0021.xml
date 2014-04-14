@@ -663,32 +663,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Broe-Ferguson</Forenames>
-      <Text>, E. N</Text>
+      <Key>De Broe-Ferguson</Key>
+      <Forenames>E. N.</Forenames>
       <PageNumber>3172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, D. G</Text>
+      <Key>De Chair</Key>
+      <Forenames>D. G .</Forenames>
       <PageNumber>3172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lukacs-Lessner</Forenames>
-      <Text>, A. K</Text>
+      <Key>De Lukacs-Lessner</Key>
+      <Forenames>A. K.</Forenames>
       <PageNumber>2749</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Planta De Wildenberg</Forenames>
+      <Key>De Planta</Key>
+      <Forenames>De Wildenberg</Forenames>
       <Text>, R. M.-G</Text>
       <PageNumber>4390</PageNumber>
     </MainItem>

@@ -1291,8 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steel</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>10085</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -23,15 +23,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G</Forenames>
       <PageNumber>13285</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, R. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>R. J</Forenames>
       <PageNumber>15676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,15 +51,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, F</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>F</Forenames>
       <PageNumber>13979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J. A</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J. A</Forenames>
       <PageNumber>14957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,8 +79,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, G. V</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>G. V</Forenames>
       <PageNumber>12146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,8 +135,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, S. E</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>S. E.</Forenames>
       <PageNumber>13287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,8 +149,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M. L. J</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M. L. J.</Forenames>
       <PageNumber>15673</PageNumber>
     </MainItem>
   </ItemGroup>

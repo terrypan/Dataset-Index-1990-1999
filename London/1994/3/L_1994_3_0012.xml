@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>12880</PageNumber>
     </MainItem>
   </ItemGroup>

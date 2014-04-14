@@ -936,8 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Forenames>J. G. G.</Forenames>
-      <Text>de P</Text>
+      <Forenames>J. G. G. de P</Forenames>
       <PageNumber>15006</PageNumber>
     </MainItem>
   </ItemGroup>

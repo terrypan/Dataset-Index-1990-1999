@@ -1633,8 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brice</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>6289</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1068,8 +1068,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Maur Sheil</Forenames>
+      <Key>St. Maur</Key>
+      <Forenames>Sheil</Forenames>
       <Text>, J. W. M</Text>
       <PageNumber>10746</PageNumber>
     </MainItem>
@@ -2141,8 +2141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>9159</PageNumber>
     </MainItem>
   </ItemGroup>

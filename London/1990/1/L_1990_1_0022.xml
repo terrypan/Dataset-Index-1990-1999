@@ -2140,8 +2140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>3305</PageNumber>
     </MainItem>
   </ItemGroup>

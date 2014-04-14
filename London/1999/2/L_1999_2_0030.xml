@@ -566,9 +566,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Candole</Forenames>
-      <Text>, N.J</Text>
+      <Key>De Candole</Key>
+      <Forenames>N.J</Forenames>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,33 +580,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Rosa</Forenames>
+      <Key>De La</Key>
+      <Forenames>Rosa</Forenames>
       <Text>, D.CC</Text>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Marco</Forenames>
-      <Text>, M.P</Text>
+      <Key>De Marco</Key>
+      <Forenames>M.P</Forenames>
       <PageNumber>4396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, C.G</Text>
+      <Key>De Morgan</Key>
+      <Forenames>C.G</Forenames>
       <PageNumber>5739</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, P.J.F</Text>
+      <Key>De Salis</Key>
+      <Forenames>P.J.F</Forenames>
       <PageNumber>5991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,9 +1025,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Ross</Forenames>
-      <Text>, S.J</Text>
+      <Key>Du Ross</Key>
+      <Forenames>S.J</Forenames>
       <PageNumber>3839</PageNumber>
     </MainItem>
   </ItemGroup>

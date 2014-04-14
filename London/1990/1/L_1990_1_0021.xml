@@ -1123,7 +1123,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barraud</Key>
-      <Text>V.C.E</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>965</PageNumber>
       <PageNumber>2647</PageNumber>
     </MainItem>

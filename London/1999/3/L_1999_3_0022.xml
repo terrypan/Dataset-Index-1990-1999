@@ -483,8 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookeborough</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount.</Title>
       <PageNumber>8614</PageNumber>
       <PageNumber>8615</PageNumber>
     </MainItem>
@@ -1355,7 +1354,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>9835</PageNumber>
     </MainItem>
   </ItemGroup>

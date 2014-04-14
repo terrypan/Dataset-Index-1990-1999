@@ -803,8 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heyman</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. M. St. J</Forenames>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,8 +1517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>2218</PageNumber>
     </MainItem>
   </ItemGroup>

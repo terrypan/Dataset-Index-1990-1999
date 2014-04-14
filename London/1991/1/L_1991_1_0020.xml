@@ -1833,9 +1833,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Banzie</Forenames>
-      <Text>, S. E</Text>
+      <Key>De Banzie</Key>
+      <Forenames>S. E</Forenames>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,6 +1843,14 @@
       <Key>DeBoys</Key>
       <Forenames>R. G</Forenames>
       <PageNumber>4325</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bretton</Key>
+      <Forenames>Gordon</Forenames>
+      <Text>, A. P</Text>
+      <PageNumber>1054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1862,34 +1869,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lotbiniere</Forenames>
-      <Text>, G. A. J</Text>
+      <Key>De Lotbiniere</Key>
+      <Forenames>G. A. J.</Forenames>
       <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Polo</Forenames>
-      <Text>, M.J</Text>
+      <Key>De Polo</Key>
+      <Forenames>M.J</Forenames>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouffignac</Forenames>
-      <Text>, C</Text>
+      <Key>De Rouffignac</Key>
+      <Forenames>C</Forenames>
       <PageNumber>1860</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, S. J</Text>
+      <Key>De Soyza</Key>
+      <Forenames>S. J</Forenames>
       <PageNumber>4781</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vere</Key>
+      <Forenames>Hunt</Forenames>
+      <Text>, A. W</Text>
+      <PageNumber>1054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2085,7 +2096,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Denver</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2236,8 +2236,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Colan-O</Key>
-      <Text>'Leary, L</Text>
+      <Key>Colan-O'Leary</Key>
+      <Forenames>L</Forenames>
       <PageNumber>7935</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -543,7 +543,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Frazer</Key>
-      <Text>V.C.M</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>4925</PageNumber>
     </MainItem>
   </ItemGroup>

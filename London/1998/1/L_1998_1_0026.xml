@@ -1082,7 +1082,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>2777</PageNumber>
     </MainItem>
   </ItemGroup>

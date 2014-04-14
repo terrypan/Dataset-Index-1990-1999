@@ -1244,9 +1244,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Vertele</Forenames>
-      <Text>, M. J</Text>
+      <Key>Von Vertele</Key>
+      <Forenames>M. J</Forenames>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>

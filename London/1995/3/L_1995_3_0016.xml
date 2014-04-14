@@ -474,8 +474,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Colan-O</Key>
-      <Text>'Leary, L</Text>
+      <Key>Colan-O'Leary</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>9197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1849,33 +1849,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ferry Foster</Forenames>
+      <Key>De Ferry</Key>
+      <Forenames>Foster</Forenames>
       <Text>, R. J</Text>
       <PageNumber>9528</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Montmorency-Wright</Forenames>
-      <Text>, J. J</Text>
+      <Key>De Montmorency-Wright</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>11765</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>A. F.</Forenames>
       <PageNumber>9199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, K. W</Text>
+      <Key>De Soyza</Key>
+      <Forenames>K. W.</Forenames>
       <PageNumber>9203</PageNumber>
     </MainItem>
   </ItemGroup>

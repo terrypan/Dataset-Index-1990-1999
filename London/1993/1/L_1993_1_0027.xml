@@ -360,8 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>C. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. A. St. J</Forenames>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>

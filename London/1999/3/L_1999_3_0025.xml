@@ -1463,7 +1463,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Foad</Key>
-      <Text>CB.B</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>10094</PageNumber>
     </MainItem>
   </ItemGroup>

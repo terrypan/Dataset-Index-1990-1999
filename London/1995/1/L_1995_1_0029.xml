@@ -242,9 +242,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lier</Forenames>
-      <Text>, M. L</Text>
+      <Key>Van Lier</Key>
+      <Forenames>M. L</Forenames>
       <PageNumber>1750</PageNumber>
     </MainItem>
   </ItemGroup>

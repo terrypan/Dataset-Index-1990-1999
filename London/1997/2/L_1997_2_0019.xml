@@ -700,7 +700,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooks</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1238,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buscombe</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>4473</PageNumber>
     </MainItem>
   </ItemGroup>

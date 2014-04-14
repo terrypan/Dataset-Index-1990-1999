@@ -313,7 +313,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sai-Sudhakar</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>

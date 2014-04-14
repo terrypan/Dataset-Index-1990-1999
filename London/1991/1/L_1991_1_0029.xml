@@ -158,8 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shevlin</Key>
-      <Title>St.</Title>
-      <Forenames>J. C</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>3061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,7 +1594,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>A.D.C</Text>
+      <Text>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>3061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2396,7 +2398,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>G.C. A</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1047</PageNumber>
     </MainItem>
   </ItemGroup>

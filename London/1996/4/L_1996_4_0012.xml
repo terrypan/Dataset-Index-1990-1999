@@ -247,9 +247,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vos</Forenames>
-      <Text>, J. P</Text>
+      <Key>De Vos</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>14851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +619,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Pol</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Pol</Forenames>
       <Text>, J. R</Text>
       <PageNumber>14851</PageNumber>
     </MainItem>

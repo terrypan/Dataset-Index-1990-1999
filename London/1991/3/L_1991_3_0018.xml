@@ -465,8 +465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Forenames>M. M. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. M. P. O'C</Forenames>
       <PageNumber>14130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holcroft</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>12737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,8 +1362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>M. C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. C. O'B</Forenames>
       <PageNumber>10465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,8 +1777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphrey</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. V. A</Text>
+      <Forenames>A. St. V</Forenames>
+      <Text>. A</Text>
       <PageNumber>14498</PageNumber>
     </MainItem>
   </ItemGroup>

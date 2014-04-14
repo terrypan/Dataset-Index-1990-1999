@@ -1940,18 +1940,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Pasture</Forenames>
+      <Key>De La</Key>
+      <Forenames>Pasture</Forenames>
       <Text>, J. H</Text>
       <PageNumber>7633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Warr Edwards</Forenames>
+      <Key>De La</Key>
+      <Forenames>Warr Edwards</Forenames>
       <Text>, M. S</Text>
       <PageNumber>5468</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Morgan</Key>
+      <Forenames>C. G</Forenames>
+      <PageNumber>7961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

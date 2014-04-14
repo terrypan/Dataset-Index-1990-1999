@@ -1632,33 +1632,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bretton Gordon</Forenames>
+      <Key>De Bretton</Key>
+      <Forenames>Gordon</Forenames>
       <Text>, H. S</Text>
       <PageNumber>13315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lukacs Lessner</Forenames>
+      <Key>De Lukacs</Key>
+      <Forenames>Lessner</Forenames>
       <Text>, C. J. P</Text>
       <PageNumber>15362</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Reya</Forenames>
-      <Text>, A. L</Text>
+      <Key>De Reya</Key>
+      <Forenames>A. L</Forenames>
       <PageNumber>13636</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, P. J. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>P. J. F</Forenames>
       <PageNumber>16838</PageNumber>
     </MainItem>
   </ItemGroup>

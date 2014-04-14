@@ -512,33 +512,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Pol</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Pol</Forenames>
       <Text>, J.R</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dyk</Forenames>
-      <Text>, D.J</Text>
+      <Key>Van Dyk</Key>
+      <Forenames>D.J</Forenames>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geene</Forenames>
-      <Text>, R.G</Text>
+      <Key>Van Geene</Key>
+      <Forenames>R.G</Forenames>
       <PageNumber>6068</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zwanenberg</Forenames>
-      <Text>, G</Text>
+      <Key>Van Zwanenberg</Key>
+      <Forenames>G</Forenames>
       <PageNumber>6068</PageNumber>
     </MainItem>
   </ItemGroup>

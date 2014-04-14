@@ -228,7 +228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>P. W. De C.</Forenames>
+      <Forenames>P. W. De C</Forenames>
       <PageNumber>11326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +754,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>M.M., notice under Trustee Act</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10682</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1237,8 +1237,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Borchgrave</Forenames>
+      <Key>De Borchgrave</Key>
       <Text>DAltena, S.G</Text>
       <PageNumber>10232</PageNumber>
     </MainItem>
@@ -1252,24 +1251,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haldevang</Forenames>
-      <Text>, J.H</Text>
+      <Key>De Haldevang</Key>
+      <Forenames>J.H</Forenames>
       <PageNumber>9258</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lukacs-Lessner</Forenames>
-      <Text>de Szeged, CJ.P</Text>
+      <Key>De Lukacs-Lessner</Key>
+      <Forenames>de Szeged</Forenames>
+      <Text>, CJ.P</Text>
       <PageNumber>8985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Renzy Channer</Forenames>
+      <Key>De Renzy</Key>
+      <Forenames>Channer</Forenames>
       <Text>, R.V.T</Text>
       <PageNumber>10231</PageNumber>
     </MainItem>

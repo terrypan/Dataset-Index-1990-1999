@@ -241,8 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>M. S. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>M. S. O'F</Forenames>
       <PageNumber>11761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,8 +969,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crofton</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>11368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1908,42 +1906,47 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Labilhere</Forenames>
-      <Text>, J. A. D</Text>
+      <Key>De Labilhere</Key>
+      <Forenames>J. A. D.</Forenames>
       <PageNumber>15680</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lukacs Lessner</Forenames>
+      <Key>De Lukacs</Key>
+      <Forenames>Lessner</Forenames>
       <Text>, C. J. P</Text>
       <PageNumber>14961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>De Normann</Forenames>
+      <Key>De De</Key>
+      <Forenames>Normann</Forenames>
       <Text>, Normann, J. J. R. R. C. C</Text>
       <PageNumber>12912</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>De Quincey Quincey Adams</Forenames>
+      <Key>De De</Key>
+      <Forenames>Quincey Quincey Adams</Forenames>
       <Text>, Adams, J. J. J</Text>
       <PageNumber>13279</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, P. J. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>P. J. F .</Forenames>
       <PageNumber>12914</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Torre</Key>
+      <Forenames>M. E .</Forenames>
+      <PageNumber>13981</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

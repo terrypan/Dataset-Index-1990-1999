@@ -1646,8 +1646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daws</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,17 +1715,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pelet</Forenames>
-      <Text>, H. P. W</Text>
+      <Key>de Mendonca</Key>
+      <Forenames>R. A. J.</Forenames>
+      <PageNumber>1844</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pelet</Key>
+      <Forenames>H. P. W</Forenames>
       <PageNumber>499</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouffignac</Forenames>
-      <Text>, C</Text>
+      <Key>De Rouffignac</Key>
+      <Forenames>C</Forenames>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>

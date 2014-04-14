@@ -516,33 +516,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Foubert</Forenames>
-      <Text>, N. O. H</Text>
+      <Key>De Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
       <PageNumber>58</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Montmorency-Wright</Forenames>
-      <Text>, J. J</Text>
+      <Key>De Montmorency-Wright</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pelet</Forenames>
-      <Text>, H. P. W</Text>
+      <Key>De Pelet</Key>
+      <Forenames>H. P. W</Forenames>
       <PageNumber>3588</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouffignac</Forenames>
-      <Text>, C</Text>
+      <Key>De Rouffignac</Key>
+      <Forenames>C</Forenames>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -741,8 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mieczkowski</Key>
-      <Forenames>S. P. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>S. P. St. L</Forenames>
       <PageNumber>11051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2229,7 +2228,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noel</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>11051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2361,22 +2362,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. B. F</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. B. F</Forenames>
       <PageNumber>11048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. A</Forenames>
       <PageNumber>8244</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, P. J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>P. J</Forenames>
       <PageNumber>8248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2396,8 +2397,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, P. M. H</Text>
+      <Key>O'Dell</Key>
+      <Forenames>P. M. H</Forenames>
       <PageNumber>9162</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1597,8 +1597,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Attlee</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord,</Text>
+      <Title>The Lord</Title>
+      <Text>,</Text>
       <PageNumber>3222</PageNumber>
     </MainItem>
   </ItemGroup>

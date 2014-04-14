@@ -1353,7 +1353,9 @@
     <MainItem>
       <Key>Morgan</Key>
       <Forenames>J.</Forenames>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>1050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2063,7 +2065,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -494,37 +494,39 @@
       <Key>Barnard</Key>
       <Forenames>N.</Forenames>
       <Text>C.H</Text>
-      <PageNumber>11611</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barnard</Key>
-      <Forenames>S.E.G.</Forenames>
-      <PageNumber>11610</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barnes</Key>
-      <Forenames>C.C.</Forenames>
-      <PageNumber>11335</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barnes</Key>
-      <Forenames>R.A.</Forenames>
-      <PageNumber>10782</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barnett</Key>
-      <Forenames>A.B</Forenames>
-      <PageNumber>10780</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>11611</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barnard</Key>
+        <Forenames>S.E.G.</Forenames>
+        <PageNumber>11610</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barnes</Key>
+        <Forenames>C.C.</Forenames>
+        <PageNumber>11335</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barnes</Key>
+        <Forenames>R.A.</Forenames>
+        <PageNumber>10782</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barnett</Key>
+        <Forenames>A.B</Forenames>
+        <PageNumber>10780</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>

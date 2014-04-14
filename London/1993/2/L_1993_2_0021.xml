@@ -1299,25 +1299,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fosse</Forenames>
+      <Key>De La</Key>
+      <Forenames>Fosse</Forenames>
       <Text>, T. A</Text>
       <PageNumber>6482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Hunty</Forenames>
+      <Key>De La</Key>
+      <Forenames>Hunty</Forenames>
       <Text>, T. S</Text>
       <PageNumber>9070</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lotbiniere</Forenames>
-      <Text>, G. A. J</Text>
+      <Key>De Lotbiniere</Key>
+      <Forenames>G. A. J.</Forenames>
       <PageNumber>8629</PageNumber>
     </MainItem>
   </ItemGroup>

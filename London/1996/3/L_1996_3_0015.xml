@@ -969,7 +969,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bancroft-Wilson</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,8 +1350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>P.St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>P.St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>8911</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2108,16 +2108,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Motte Hervey</Forenames>
+      <Key>de Fonblanque</Key>
+      <Forenames>H. B.</Forenames>
+      <PageNumber>16821</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Motte Hervey</Forenames>
       <Text>, M. S. F</Text>
       <PageNumber>19060</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Planta De Wildenberg</Forenames>
+      <Key>de Medewe</Key>
+      <Forenames>Woodley</Forenames>
+      <Text>, B. J</Text>
+      <PageNumber>19058</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>17940</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Planta</Key>
+      <Forenames>De Wildenberg</Forenames>
       <Text>, F.M.G</Text>
       <PageNumber>17192</PageNumber>
     </MainItem>

@@ -494,8 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnbrook</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>15452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1206,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennie</Key>
-      <Text>C.H. A. R</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>17190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Forenames>R. E. De F.</Forenames>
+      <Forenames>R. E. De F</Forenames>
       <PageNumber>15452</PageNumber>
       <PageNumber>18323</PageNumber>
     </MainItem>
@@ -1567,7 +1568,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>T.D. L</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>19370</PageNumber>
     </MainItem>
   </ItemGroup>

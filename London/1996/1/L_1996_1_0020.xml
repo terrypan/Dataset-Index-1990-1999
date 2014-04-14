@@ -219,25 +219,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buisseret</Forenames>
-      <Text>, A. M. '</Text>
+      <Key>De Buisseret</Key>
+      <Forenames>A. M.</Forenames>
+      <Text>'</Text>
       <PageNumber>1044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burca</Forenames>
-      <Text>, P. J</Text>
+      <Key>De Burca</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>3332</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Labilliere</Forenames>
-      <Text>, S. D. D</Text>
+      <Key>de Ferry</Key>
+      <Forenames>Foster</Forenames>
+      <Text>, R. J</Text>
+      <PageNumber>2553</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Labilliere</Key>
+      <Forenames>S. D. D.</Forenames>
       <PageNumber>690</PageNumber>
       <PageNumber>3329</PageNumber>
     </MainItem>
@@ -252,9 +258,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouet</Forenames>
-      <Text>, W. J</Text>
+      <Key>De Rouet</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>2555</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -392,8 +392,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E.H.,&amp;Sons</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E.H.</Forenames>
+      <Text>,&amp;Sons</Text>
       <PageNumber>7425</PageNumber>
     </MainItem>
   </ItemGroup>

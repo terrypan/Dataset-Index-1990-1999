@@ -1286,8 +1286,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, A. A</Text>
       <PageNumber>11492</PageNumber>
     </MainItem>

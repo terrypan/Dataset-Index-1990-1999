@@ -1587,8 +1587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>3792</PageNumber>
     </MainItem>
   </ItemGroup>

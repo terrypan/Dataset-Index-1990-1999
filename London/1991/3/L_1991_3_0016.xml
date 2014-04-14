@@ -1019,8 +1019,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkland</Key>
-      <Forenames>The</Forenames>
-      <Text>Master of</Text>
+      <Title>The Master</Title>
+      <Text>of</Text>
       <PageNumber>13051</PageNumber>
     </MainItem>
   </ItemGroup>

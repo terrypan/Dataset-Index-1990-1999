@@ -698,17 +698,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Driessen-Magee</Forenames>
-      <Text>, J. M</Text>
+      <Key>Van Driessen-Magee</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>12683</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dyk</Forenames>
-      <Text>, D. J</Text>
+      <Key>Van Dyk</Key>
+      <Forenames>D. J</Forenames>
       <PageNumber>11410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,9 +882,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Bertele</Forenames>
-      <Text>, M. J</Text>
+      <Key>Von Bertele</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>13141</PageNumber>
     </MainItem>
   </ItemGroup>

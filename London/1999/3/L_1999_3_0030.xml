@@ -1127,7 +1127,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>8070</PageNumber>
     </MainItem>
   </ItemGroup>

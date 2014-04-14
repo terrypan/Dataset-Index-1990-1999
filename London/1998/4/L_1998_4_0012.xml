@@ -822,7 +822,9 @@
     <MainItem>
       <Key>Pringle</Key>
       <Forenames>A.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>12075</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -291,8 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holling</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>14786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,8 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Forenames>R.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R.St. J</Forenames>
       <PageNumber>14485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1707,8 +1705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>C. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. A. St. J</Forenames>
       <PageNumber>13857</PageNumber>
     </MainItem>
   </ItemGroup>

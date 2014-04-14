@@ -180,7 +180,9 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>H. Industrial Pic Pension &amp; Life Assurance Scheme, notice to members re winding-up</Text>
+      <Text>
+        <Honour>H.</Honour>
+      </Text>
       <PageNumber>7288</PageNumber>
     </MainItem>
   </ItemGroup>

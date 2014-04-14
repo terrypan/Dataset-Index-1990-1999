@@ -1998,8 +1998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>T. J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>T. J. St. C</Forenames>
       <PageNumber>7742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2323,7 +2322,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrows</Key>
-      <Text>MM</Text>
+      <Text>
+        <Honour>MM</Honour>
+      </Text>
       <PageNumber>7745</PageNumber>
     </MainItem>
   </ItemGroup>

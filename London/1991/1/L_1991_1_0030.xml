@@ -1175,8 +1175,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, M. J</Text>
       <PageNumber>1059</PageNumber>
     </MainItem>
@@ -1190,8 +1190,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Weyden</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Weyden</Forenames>
       <Text>, A. P</Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
@@ -1364,136 +1364,138 @@
       <Key>Vivers</Key>
       <Forenames>A.</Forenames>
       <Text>G.C</Text>
-      <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Vivian</Key>
-      <Forenames>B. G</Forenames>
-      <PageNumber>1047</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Vosper</Key>
-      <Forenames>T. R</Forenames>
-      <PageNumber>4774</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Waddington</Key>
-      <Forenames>D. J.</Forenames>
-      <PageNumber>661</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wade</Key>
-      <Forenames>R. M</Forenames>
-      <PageNumber>662</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wadley</Key>
-      <Forenames>R. E. A.</Forenames>
-      <PageNumber>305</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wager</Key>
-      <Forenames>P. R</Forenames>
-      <PageNumber>4773</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wakefield</Key>
-      <Forenames>D. E.</Forenames>
-      <PageNumber>1469</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walch</Key>
-      <Forenames>A. C</Forenames>
-      <PageNumber>1055</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>A</Forenames>
-      <PageNumber>305</PageNumber>
-      <PageNumber>1060</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>A. J</Forenames>
-      <PageNumber>3475</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>F. J</Forenames>
-      <PageNumber>4775</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>G. R</Forenames>
-      <PageNumber>1861</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>J</Forenames>
-      <PageNumber>1858</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>J. C</Forenames>
-      <PageNumber>2219</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>J. K</Forenames>
-      <PageNumber>1472</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>J.N</Forenames>
-      <PageNumber>1862</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>K</Forenames>
-      <PageNumber>2219</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Forenames>M. B.</Forenames>
-      <PageNumber>3065</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>1470</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Vivian</Key>
+        <Forenames>B. G</Forenames>
+        <PageNumber>1047</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Vosper</Key>
+        <Forenames>T. R</Forenames>
+        <PageNumber>4774</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Waddington</Key>
+        <Forenames>D. J.</Forenames>
+        <PageNumber>661</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wade</Key>
+        <Forenames>R. M</Forenames>
+        <PageNumber>662</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wadley</Key>
+        <Forenames>R. E. A.</Forenames>
+        <PageNumber>305</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wager</Key>
+        <Forenames>P. R</Forenames>
+        <PageNumber>4773</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wakefield</Key>
+        <Forenames>D. E.</Forenames>
+        <PageNumber>1469</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walch</Key>
+        <Forenames>A. C</Forenames>
+        <PageNumber>1055</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>A</Forenames>
+        <PageNumber>305</PageNumber>
+        <PageNumber>1060</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>A. J</Forenames>
+        <PageNumber>3475</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>F. J</Forenames>
+        <PageNumber>4775</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>G. R</Forenames>
+        <PageNumber>1861</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>J</Forenames>
+        <PageNumber>1858</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>J. C</Forenames>
+        <PageNumber>2219</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>J. K</Forenames>
+        <PageNumber>1472</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>J.N</Forenames>
+        <PageNumber>1862</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>K</Forenames>
+        <PageNumber>2219</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Walker</Key>
+        <Forenames>M. B.</Forenames>
+        <PageNumber>3065</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
@@ -2050,7 +2052,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1471</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1391,7 +1391,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>12073</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1406,15 +1406,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, C</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>C</Forenames>
       <PageNumber>12011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H</Forenames>
       <PageNumber>9882</PageNumber>
     </MainItem>
   </ItemGroup>

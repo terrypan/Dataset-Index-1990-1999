@@ -681,8 +681,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George Carey</Forenames>
+      <Key>St. George</Key>
+      <Forenames>Carey</Forenames>
       <Text>, G. \ 1</Text>
       <PageNumber>2650</PageNumber>
     </MainItem>
@@ -1351,8 +1351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>957</PageNumber>
     </MainItem>
   </ItemGroup>

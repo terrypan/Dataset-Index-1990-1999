@@ -1293,7 +1293,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forte</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>7377</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -952,17 +952,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lukacs Lessner</Forenames>
+      <Key>De Lukacs</Key>
+      <Forenames>Lessner</Forenames>
       <Text>, C. J. P</Text>
       <PageNumber>13683</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Normann</Forenames>
-      <Text>, A. L</Text>
+      <Key>De Normann</Key>
+      <Forenames>A. L.</Forenames>
       <PageNumber>15649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,8 +974,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Savigny Bower</Forenames>
+      <Key>de Quincey</Key>
+      <Forenames>Adams</Forenames>
+      <Text>, J. J</Text>
+      <PageNumber>13011</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Savigny</Key>
+      <Forenames>Bower</Forenames>
       <Text>, R. A</Text>
       <PageNumber>15001</PageNumber>
     </MainItem>

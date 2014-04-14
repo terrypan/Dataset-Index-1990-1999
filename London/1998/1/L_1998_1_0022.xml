@@ -1253,7 +1253,9 @@
     <MainItem>
       <Key>Cross</Key>
       <Forenames>J.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>1853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1720,17 +1722,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Rosa</Forenames>
+      <Key>De La</Key>
+      <Forenames>Rosa</Forenames>
       <Text>, D.CC</Text>
       <PageNumber>1852</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Polo</Forenames>
-      <Text>, M.J</Text>
+      <Key>De Polo</Key>
+      <Forenames>M.J</Forenames>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>

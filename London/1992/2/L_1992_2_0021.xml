@@ -327,8 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzmaurice</Key>
-      <Forenames>A. F. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. F. N. St. J</Forenames>
       <PageNumber>8935</PageNumber>
     </MainItem>
   </ItemGroup>

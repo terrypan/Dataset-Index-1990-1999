@@ -1255,22 +1255,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J.P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J.P</Forenames>
       <PageNumber>9352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P.E.C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P.E.C</Forenames>
       <PageNumber>10353</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, S.K</Text>
+      <Key>O'Connor</Key>
+      <Forenames>S.K</Forenames>
       <PageNumber>7308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,29 +1283,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, N</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>N</Forenames>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, S.J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>S.J</Forenames>
       <PageNumber>9841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, T.K</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T.K</Forenames>
       <PageNumber>7309</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, E.H</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>E.H</Forenames>
       <PageNumber>8346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,8 +1318,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, T.D</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>T.D</Forenames>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1396,15 +1396,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, R.J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>R.J</Forenames>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, S.S.M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>S.S.M</Forenames>
       <PageNumber>10094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,8 +1417,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Nions, M.D.H</Text>
+      <Key>O'Nions</Key>
+      <Forenames>M.D.H</Forenames>
       <PageNumber>8349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,8 +1431,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, J.N</Text>
+      <Key>O'Regan</Key>
+      <Forenames>J.N</Forenames>
       <PageNumber>8349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,8 +1445,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, W.J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>W.J</Forenames>
       <PageNumber>10350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,22 +1466,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, D.J</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>D.J</Forenames>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, F.W.G</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>F.W.G</Forenames>
       <PageNumber>7566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, K.E</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>K.E</Forenames>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,15 +1494,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M.P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M.P</Forenames>
       <PageNumber>7309</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P.A</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P.A</Forenames>
       <PageNumber>10353</PageNumber>
     </MainItem>
   </ItemGroup>

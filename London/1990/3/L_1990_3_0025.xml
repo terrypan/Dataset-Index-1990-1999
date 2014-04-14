@@ -918,8 +918,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Bui</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Bui</Forenames>
       <Text>, N. A. C</Text>
       <PageNumber>15108</PageNumber>
     </MainItem>
@@ -933,25 +933,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Pant</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Pant</Forenames>
       <Text>, J. C</Text>
       <PageNumber>12277</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Weyden</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Weyden</Forenames>
       <Text>, A. P</Text>
       <PageNumber>14191</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lier</Forenames>
-      <Text>, M. L</Text>
+      <Key>Van Lier</Key>
+      <Forenames>M. L</Forenames>
       <PageNumber>13852</PageNumber>
     </MainItem>
   </ItemGroup>

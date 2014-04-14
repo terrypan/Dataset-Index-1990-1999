@@ -744,7 +744,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Enright</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>12373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,8 +767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erroll</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>11808</PageNumber>
     </MainItem>
   </ItemGroup>

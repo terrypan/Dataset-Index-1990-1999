@@ -1270,24 +1270,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beek</Forenames>
-      <Text>, L</Text>
+      <Key>Van Beek</Key>
+      <Forenames>L</Forenames>
       <PageNumber>19981</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Berckel</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Berckel</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>19332</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praet</Forenames>
+      <Key>Van Praet</Key>
       <Text>DAmerloo, R. P. E. M. J</Text>
       <PageNumber>18536</PageNumber>
     </MainItem>

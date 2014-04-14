@@ -406,8 +406,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Fitzgerald-O</Key>
-      <Text>'Connor, A</Text>
+      <Key>Fitzgerald-O'Connor</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>16033</PageNumber>
     </MainItem>
   </ItemGroup>

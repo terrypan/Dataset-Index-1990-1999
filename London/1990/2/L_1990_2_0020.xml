@@ -249,8 +249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coughlan</Key>
-      <Title>St.</Title>
-      <Forenames>J. P. P.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>P. P.</Forenames>
       <PageNumber>9157</PageNumber>
       <PageNumber>11048</PageNumber>
     </MainItem>
@@ -1031,7 +1031,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darby</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1400,8 +1402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>8818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,17 +1480,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Pasture</Forenames>
+      <Key>de Coverley-Wilkins</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>7286</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Pasture</Forenames>
       <Text>, J. H</Text>
       <PageNumber>8818</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sallis</Forenames>
-      <Text>, P. J. F</Text>
+      <Key>De Sallis</Key>
+      <Forenames>P. J. F</Forenames>
       <PageNumber>10750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,8 +1650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewar</Key>
-      <Forenames>M. K. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>M. K. O'M</Forenames>
       <PageNumber>8564</PageNumber>
     </MainItem>
   </ItemGroup>

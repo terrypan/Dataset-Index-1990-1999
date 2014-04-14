@@ -1719,18 +1719,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mello</Forenames>
-      <Text>, J. S. F</Text>
+      <Key>De Mello</Key>
+      <Forenames>J. S. F</Forenames>
       <PageNumber>13421</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, P. J. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>P. J. F</Forenames>
       <PageNumber>10838</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Torre</Key>
+      <Forenames>M. E</Forenames>
+      <PageNumber>13057</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

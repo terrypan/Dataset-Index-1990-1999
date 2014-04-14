@@ -256,33 +256,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Noot</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Noot</Forenames>
       <Text>, C. H</Text>
       <PageNumber>3172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dyk</Forenames>
-      <Text>, D. J</Text>
+      <Key>Van Dyk</Key>
+      <Forenames>D. J</Forenames>
       <PageNumber>2749</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Grutten</Forenames>
-      <Text>, M. W</Text>
+      <Key>Van Grutten</Key>
+      <Forenames>M. W.</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Vann</Key>
-      <Forenames>Rhyn</Forenames>
-      <Text>, S. J</Text>
+      <Key>Vann Rhyn</Key>
+      <Forenames>S. J</Forenames>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,9 +348,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Merveldt</Forenames>
-      <Text>, J. D. M</Text>
+      <Key>Von Merveldt</Key>
+      <Forenames>J. D. M.</Forenames>
       <PageNumber>20680</PageNumber>
     </MainItem>
   </ItemGroup>

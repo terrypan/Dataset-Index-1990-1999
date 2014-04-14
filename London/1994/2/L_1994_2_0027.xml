@@ -171,8 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redesdale</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>7635</PageNumber>
     </MainItem>
   </ItemGroup>

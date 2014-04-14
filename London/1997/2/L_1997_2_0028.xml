@@ -1086,7 +1086,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Pol, J.R</Text>
+      <Forenames>de Pol</Forenames>
+      <Text>, J.R</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,8 +1173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vincent</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord</Title>
       <PageNumber>5115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1890,7 +1890,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Welch</Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>4471</PageNumber>
     </MainItem>
   </ItemGroup>

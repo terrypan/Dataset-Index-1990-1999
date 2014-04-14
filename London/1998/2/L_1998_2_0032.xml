@@ -720,7 +720,9 @@
     <MainItem>
       <Key>American</Key>
       <Forenames>Energy Services Inc</Forenames>
-      <Text>. (AES), Houston, USA See P.L.T. Associates Architects Registration Board (ARB), General Rules, consultation to amend</Text>
+      <Text>
+        <Honour>L.T.</Honour>
+      </Text>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>

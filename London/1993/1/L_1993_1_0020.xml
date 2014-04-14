@@ -2235,33 +2235,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Antwerpen</Forenames>
-      <Text>, M. J</Text>
+      <Key>Van Antwerpen</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>3109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Bochove</Forenames>
-      <Text>, M. A</Text>
+      <Key>Van Bochove</Key>
+      <Forenames>M. A.</Forenames>
       <PageNumber>3109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oostveen</Forenames>
-      <Text>, A. R</Text>
+      <Key>Van Oostveen</Key>
+      <Forenames>A. R.</Forenames>
       <PageNumber>3109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Vliet</Forenames>
-      <Text>, M. R</Text>
+      <Key>Van Vliet</Key>
+      <Forenames>M. R</Forenames>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>

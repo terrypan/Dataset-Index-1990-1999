@@ -524,7 +524,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurstan</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>9956</PageNumber>
       <PageNumber>10232</PageNumber>
     </MainItem>
@@ -799,7 +801,9 @@
     <MainItem>
       <Key>Trevor-Barnston</Key>
       <Forenames>E.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>10231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +930,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>7370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,9 +1085,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Spall</Forenames>
-      <Text>, C</Text>
+      <Key>Van Spall</Key>
+      <Forenames>C</Forenames>
       <PageNumber>9260</PageNumber>
     </MainItem>
   </ItemGroup>

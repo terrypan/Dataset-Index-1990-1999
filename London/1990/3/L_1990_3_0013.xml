@@ -1023,8 +1023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>T. J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>T. J. St. C</Forenames>
       <PageNumber>12916</PageNumber>
     </MainItem>
   </ItemGroup>

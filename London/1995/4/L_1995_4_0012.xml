@@ -1829,9 +1829,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haldevang</Forenames>
-      <Text>, J. H</Text>
+      <Key>De Haldevang</Key>
+      <Forenames>J. H</Forenames>
       <PageNumber>15368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2167,8 +2166,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. B</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. B .</Forenames>
       <PageNumber>15368</PageNumber>
     </MainItem>
   </ItemGroup>

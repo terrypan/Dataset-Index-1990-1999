@@ -1957,7 +1957,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thrussell</Key>
-      <Text>P.C. S</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>8570</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -379,8 +379,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, C. J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>C. J .</Forenames>
       <PageNumber>8939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,8 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainslie</Key>
-      <Forenames>J. D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. D. St. J</Forenames>
       <PageNumber>6919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,8 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>10973</PageNumber>
     </MainItem>
   </ItemGroup>

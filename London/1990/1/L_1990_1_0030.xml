@@ -1652,100 +1652,100 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F. W</Forenames>
       <PageNumber>2983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M.C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M.C</Forenames>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. R</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. R</Forenames>
       <PageNumber>639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R</Forenames>
       <PageNumber>7038</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, A.J.T</Text>
+      <Key>O'Connell</Key>
+      <Forenames>A.J.T</Forenames>
       <PageNumber>1631</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. G</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. G</Forenames>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D.W</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D.W</Forenames>
       <PageNumber>2297</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor EM</Text>
+      <Key>O'Connor</Key>
+      <Text>EM</Text>
       <PageNumber>961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, L.D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>L.D</Forenames>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor. T</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T</Forenames>
       <PageNumber>7033</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, K. A</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>K. A.</Forenames>
       <PageNumber>961</PageNumber>
       <PageNumber>3314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell.N</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>N</Forenames>
       <PageNumber>1975</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, T. E</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>T. E</Forenames>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, M. A</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>M. A</Forenames>
       <PageNumber>959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,22 +1765,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Corman, M. P</Text>
+      <Key>O'Corman</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>2647</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan.M.F</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>M.F.</Forenames>
       <PageNumber>1969</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan. V. W. J</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>V. W. J</Forenames>
       <PageNumber>2982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,15 +1800,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, C.A.J</Text>
+      <Key>O'Kane</Key>
+      <Forenames>C.A.J.</Forenames>
       <PageNumber>958</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, R.J</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>R.J.</Forenames>
       <PageNumber>2982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,15 +1863,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H</Forenames>
       <PageNumber>7031</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, R. K</Text>
+      <Key>O'Neill</Key>
+      <Forenames>R. K.</Forenames>
       <PageNumber>637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1891,8 +1891,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, W. C</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>W. C.</Forenames>
       <PageNumber>3669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1940,15 +1940,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea.A. L</Text>
+      <Key>O'Shea</Key>
+      <Forenames>A. L.</Forenames>
       <PageNumber>7040</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>

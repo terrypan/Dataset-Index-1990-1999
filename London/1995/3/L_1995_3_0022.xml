@@ -16,8 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, C. S</Text>
+      <Key>O'Hara</Key>
+      <Forenames>C. S</Forenames>
       <PageNumber>12685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,15 +72,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, V. K</Text>
+      <Key>O'Neil</Key>
+      <Forenames>V. K</Forenames>
       <PageNumber>10178</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, K. B</Text>
+      <Key>O'Neill</Key>
+      <Forenames>K. B</Forenames>
       <PageNumber>12061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,15 +100,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C</Forenames>
       <PageNumber>12683</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, K. T</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>K. T</Forenames>
       <PageNumber>11486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,8 +170,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, S. E</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>S. E.</Forenames>
       <PageNumber>10508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,8 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. H. O'H</Forenames>
       <PageNumber>9195</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -430,22 +430,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H.J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H.J</Forenames>
       <PageNumber>11276</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, N.P.S</Text>
+      <Key>O'Connor</Key>
+      <Forenames>N.P.S</Forenames>
       <PageNumber>12073</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J.M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J.M</Forenames>
       <PageNumber>12463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +472,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, 1</Text>
+      <Key>O'Hara</Key>
+      <Text>1</Text>
       <PageNumber>12172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,8 +507,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G</Forenames>
       <PageNumber>12173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,8 +563,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, R.J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>R.J</Forenames>
       <PageNumber>12461</PageNumber>
     </MainItem>
   </ItemGroup>

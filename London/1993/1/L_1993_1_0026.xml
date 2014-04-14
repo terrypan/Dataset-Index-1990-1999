@@ -1907,8 +1907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>

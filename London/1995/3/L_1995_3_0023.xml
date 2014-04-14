@@ -475,8 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roskelly</Key>
-      <Forenames>C. M.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. M. de W</Forenames>
       <PageNumber>9195</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2362,17 +2362,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bretton Gordon</Forenames>
+      <Key>De Bretton</Key>
+      <Forenames>Gordon</Forenames>
       <Text>, A. P</Text>
       <PageNumber>14203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Carteret</Forenames>
-      <Text>, G. B</Text>
+      <Key>De Carteret</Key>
+      <Forenames>G. B.</Forenames>
       <PageNumber>15272</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1202,8 +1202,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gaag</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gaag</Forenames>
       <Text>, M. C. G</Text>
       <PageNumber>11969</PageNumber>
     </MainItem>

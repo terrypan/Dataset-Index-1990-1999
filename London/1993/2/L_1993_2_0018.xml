@@ -223,15 +223,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryan, I. J</Text>
+      <Key>O'Bryan</Key>
+      <Forenames>I. J</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, D. P</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>D. P</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>

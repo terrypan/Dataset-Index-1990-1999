@@ -2065,15 +2065,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, P. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>P. J .</Forenames>
       <PageNumber>15223</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M .</Forenames>
       <PageNumber>15224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2093,8 +2093,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, P. P</Text>
+      <Key>O'Shea</Key>
+      <Forenames>P. P .</Forenames>
       <PageNumber>16722</PageNumber>
     </MainItem>
   </ItemGroup>

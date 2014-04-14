@@ -1440,7 +1440,9 @@
     <MainItem>
       <Key>Davenhill</Key>
       <Forenames>A.</Forenames>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>6843</PageNumber>
       <PageNumber>7124</PageNumber>
     </MainItem>
@@ -1721,33 +1723,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Labilliere</Forenames>
-      <Text>, P.J.M</Text>
+      <Key>De Labilliere</Key>
+      <Forenames>P.J.M</Forenames>
       <PageNumber>5025</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Margary</Forenames>
-      <Text>, G.D.M</Text>
+      <Key>De Margary</Key>
+      <Forenames>G.D.M</Forenames>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Montmorency-Wright</Forenames>
-      <Text>, J.J</Text>
+      <Key>De Montmorency-Wright</Key>
+      <Forenames>J.J.</Forenames>
       <PageNumber>3993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, C.G</Text>
+      <Key>De Morgan</Key>
+      <Forenames>C.G</Forenames>
       <PageNumber>5580</PageNumber>
     </MainItem>
   </ItemGroup>

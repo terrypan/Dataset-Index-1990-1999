@@ -918,7 +918,9 @@
     <MainItem>
       <Key>Combes</Key>
       <Forenames>J.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>

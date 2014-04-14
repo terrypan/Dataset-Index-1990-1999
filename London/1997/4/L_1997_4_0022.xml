@@ -494,7 +494,9 @@
     <MainItem>
       <Key>Pringle</Key>
       <Forenames>A.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>12931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +659,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Radnall</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>13789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1004,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>13788</PageNumber>
     </MainItem>
   </ItemGroup>

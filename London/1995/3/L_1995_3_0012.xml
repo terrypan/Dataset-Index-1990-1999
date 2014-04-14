@@ -2151,22 +2151,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, P. J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>12994</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. G</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>12060</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. J</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>11492</PageNumber>
     </MainItem>
   </ItemGroup>

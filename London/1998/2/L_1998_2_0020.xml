@@ -1200,7 +1200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton-Greenwood</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>

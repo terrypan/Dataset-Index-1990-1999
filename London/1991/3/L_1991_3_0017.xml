@@ -1194,8 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>14124</PageNumber>
     </MainItem>
   </ItemGroup>

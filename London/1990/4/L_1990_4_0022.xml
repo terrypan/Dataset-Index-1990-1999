@@ -1106,30 +1106,32 @@
     <MainItem>
       <Key>Pugh</Key>
       <Text>G.M</Text>
-      <PageNumber>18702</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pugh-Cook</Key>
-      <Forenames>R. M</Forenames>
-      <PageNumber>18704</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pullen</Key>
-      <Forenames>C.M.</Forenames>
-      <PageNumber>16454</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pullen</Key>
-      <Forenames>D.J.</Forenames>
-      <PageNumber>17572</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>18702</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Pugh-Cook</Key>
+        <Forenames>R. M</Forenames>
+        <PageNumber>18704</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Pullen</Key>
+        <Forenames>C.M.</Forenames>
+        <PageNumber>16454</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Pullen</Key>
+        <Forenames>D.J.</Forenames>
+        <PageNumber>17572</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Pullen</Key>

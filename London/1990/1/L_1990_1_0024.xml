@@ -31,8 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Court-Smith</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,6 +1120,13 @@
       <Key>DePulford</Key>
       <Forenames>J.C.F.S.</Forenames>
       <PageNumber>7032</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salaberry-Lewis</Key>
+      <Forenames>J. H.</Forenames>
+      <PageNumber>1632</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

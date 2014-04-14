@@ -381,8 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. St. J</Forenames>
       <PageNumber>13858</PageNumber>
     </MainItem>
   </ItemGroup>

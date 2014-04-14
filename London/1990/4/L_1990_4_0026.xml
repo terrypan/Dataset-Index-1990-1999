@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. R</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. R</Text>
       <PageNumber>17948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1193,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>18324</PageNumber>
     </MainItem>
   </ItemGroup>

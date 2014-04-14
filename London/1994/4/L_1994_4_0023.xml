@@ -503,24 +503,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Berckel</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Berckel</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>15268</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Byl</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Byl</Forenames>
       <Text>, S. A. V</Text>
       <PageNumber>17049</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Lande</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Lande</Forenames>
       <Text>, M. C</Text>
       <PageNumber>13865</PageNumber>
     </MainItem>

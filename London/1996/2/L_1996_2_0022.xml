@@ -1342,32 +1342,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fuente</Forenames>
+      <Key>de Coverley-Wilkins</Key>
+      <Forenames>A. D.</Forenames>
+      <PageNumber>4794</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Fuente</Forenames>
       <Text>, C</Text>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lebat</Forenames>
-      <Text>, A. C. P</Text>
+      <Key>De Lebat</Key>
+      <Forenames>A. C. P.</Forenames>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, C. G</Text>
+      <Key>De Morgan</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>6354</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salaberry Lewis</Forenames>
+      <Key>De Salaberry</Key>
+      <Forenames>Lewis</Forenames>
       <Text>, J. H</Text>
       <PageNumber>5713</PageNumber>
     </MainItem>

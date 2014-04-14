@@ -197,7 +197,9 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>B.E. Printers Ltd. Staff Retirement Benefits Scheme, notice under Trustee Act</Text>
+      <Text>
+        <Honour>B.E.</Honour>
+      </Text>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +422,9 @@
     <MainItem>
       <Key>Companies</Key>
       <Forenames>Act</Forenames>
-      <Text>1985 (contd.): Rights Issues (contd.): Wigan Athletic A.F.C</Text>
+      <Text>
+        <Honour>A.F.C</Honour>
+      </Text>
       <PageNumber>4349</PageNumber>
     </MainItem>
   </ItemGroup>

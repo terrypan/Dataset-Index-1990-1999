@@ -2256,59 +2256,59 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, P. A</Text>
+      <Key>O'Brian</Key>
+      <Forenames>P. A .</Forenames>
       <PageNumber>11972</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, P. E. C</Text>
+      <Key>O'Brian</Key>
+      <Forenames>P. E. C.</Forenames>
       <PageNumber>10089</PageNumber>
       <PageNumber>10467</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>J</Forenames>
       <PageNumber>13737</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, C. R. W</Text>
+      <Key>O'Connell</Key>
+      <Forenames>C. R. W.</Forenames>
       <PageNumber>11977</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, D. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>13425</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, S. T</Text>
+      <Key>O'Connell</Key>
+      <Forenames>S. T.</Forenames>
       <PageNumber>11976</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, B. T</Text>
+      <Key>O'Connor</Key>
+      <Forenames>B. T.</Forenames>
       <PageNumber>10466</PageNumber>
       <PageNumber>12333</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, T. P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T. P.</Forenames>
       <PageNumber>13422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2328,15 +2328,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, M. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>13742</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, T. E</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T. E.</Forenames>
       <PageNumber>11597</PageNumber>
     </MainItem>
   </ItemGroup>

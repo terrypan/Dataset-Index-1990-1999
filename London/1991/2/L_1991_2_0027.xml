@@ -1232,8 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Forenames>P. C. St</Forenames>
-      <Text>. Bel</Text>
+      <Forenames>P. C. St. Bel</Forenames>
       <PageNumber>5877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,8 +1705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewlett</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>8197</PageNumber>
     </MainItem>
   </ItemGroup>

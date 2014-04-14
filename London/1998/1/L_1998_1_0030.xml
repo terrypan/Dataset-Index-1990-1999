@@ -1143,8 +1143,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Veen</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Veen</Forenames>
       <Text>, M</Text>
       <PageNumber>1528</PageNumber>
     </MainItem>
@@ -1242,9 +1242,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Merveldt</Forenames>
-      <Text>, J.M</Text>
+      <Key>Von Merveldt</Key>
+      <Forenames>J.M</Forenames>
       <PageNumber>104</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -44,32 +44,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Banzie</Forenames>
-      <Text>, S. E</Text>
+      <Key>De Banzie</Key>
+      <Forenames>S. E</Forenames>
       <PageNumber>15640</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jager</Forenames>
-      <Text>, H</Text>
+      <Key>De Jager</Key>
+      <Forenames>H</Forenames>
       <PageNumber>19982</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Normann</Forenames>
-      <Text>, J. R</Text>
+      <Key>De Normann</Key>
+      <Forenames>J. R.</Forenames>
       <PageNumber>16034</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Quincey Adams</Forenames>
+      <Key>De Quincey</Key>
+      <Forenames>Adams</Forenames>
       <Text>, J. J</Text>
       <PageNumber>15635</PageNumber>
     </MainItem>
@@ -83,17 +80,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Tscharner-Vischer</Forenames>
-      <Text>, N. J</Text>
+      <Key>De Tscharner-Vischer</Key>
+      <Forenames>N. J.</Forenames>
       <PageNumber>16035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, M. R</Text>
+      <Key>De Winton</Key>
+      <Forenames>M. R.</Forenames>
       <PageNumber>15224</PageNumber>
     </MainItem>
   </ItemGroup>

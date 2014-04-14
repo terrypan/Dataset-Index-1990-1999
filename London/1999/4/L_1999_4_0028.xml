@@ -752,7 +752,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>11554</PageNumber>
     </MainItem>
   </ItemGroup>

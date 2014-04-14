@@ -467,7 +467,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidlow-Jackson</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,8 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grandison</Key>
-      <Forenames>O</Forenames>
-      <Text>'B.L</Text>
+      <Title>O'B.</Title>
+      <Forenames>L</Forenames>
       <PageNumber>10471</PageNumber>
     </MainItem>
   </ItemGroup>

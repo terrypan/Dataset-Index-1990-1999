@@ -370,8 +370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>J. P. O'F</Forenames>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

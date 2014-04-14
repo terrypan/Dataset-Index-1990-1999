@@ -1441,8 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackaness</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>J. R. St. D</Forenames>
       <PageNumber>8911</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1465,7 +1465,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackstone</Key>
-      <Text>KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>9613</PageNumber>
     </MainItem>
   </ItemGroup>

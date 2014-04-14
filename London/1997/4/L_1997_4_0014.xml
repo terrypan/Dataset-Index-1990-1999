@@ -868,7 +868,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>H.</Forenames>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>12370</PageNumber>
     </MainItem>
   </ItemGroup>

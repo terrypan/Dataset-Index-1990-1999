@@ -466,24 +466,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Basto</Forenames>
-      <Text>, R. J. C</Text>
+      <Key>De Basto</Key>
+      <Forenames>R. J. C.</Forenames>
       <PageNumber>17983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cartaret</Forenames>
-      <Text>, G. B</Text>
+      <Key>De Cartaret</Key>
+      <Forenames>G. B.</Forenames>
       <PageNumber>19798</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ferry Foster</Forenames>
+      <Key>De Ferry</Key>
+      <Forenames>Foster</Forenames>
       <Text>, R. J</Text>
       <PageNumber>19796</PageNumber>
     </MainItem>
@@ -497,57 +495,58 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haldevang</Forenames>
-      <Text>, J. H</Text>
+      <Key>de Garis</Key>
+      <Forenames>D. R. W.</Forenames>
+      <PageNumber>19801</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Haldevang</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>16673</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Medewe Woodley</Forenames>
+      <Key>De Medewe</Key>
+      <Forenames>Woodley</Forenames>
       <Text>, B. J</Text>
       <PageNumber>16679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Normann</Forenames>
-      <Text>, A. L</Text>
+      <Key>De Normann</Key>
+      <Forenames>A. L.</Forenames>
       <PageNumber>20692</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pelet</Forenames>
-      <Text>, H. P. W</Text>
+      <Key>De Pelet</Key>
+      <Forenames>H. P. W.</Forenames>
       <PageNumber>20251</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>A. F</Forenames>
       <PageNumber>17084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Stacpoole</Forenames>
-      <Text>, D. H. O</Text>
+      <Key>De Stacpoole</Key>
+      <Forenames>D. H. O.</Forenames>
       <PageNumber>16678</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vos</Forenames>
-      <Text>, J. P</Text>
+      <Key>De Vos</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>16673</PageNumber>
     </MainItem>
   </ItemGroup>

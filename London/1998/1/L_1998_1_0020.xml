@@ -876,7 +876,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagnall</Key>
-      <Text>R.D. A</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -144,8 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>7290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1223,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hand</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>11048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1479,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>10104</PageNumber>
     </MainItem>
   </ItemGroup>

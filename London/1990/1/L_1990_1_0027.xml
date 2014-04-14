@@ -769,8 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holling</Key>
-      <Forenames>D.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D.St. J</Forenames>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>

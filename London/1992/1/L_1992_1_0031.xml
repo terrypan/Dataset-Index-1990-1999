@@ -1827,33 +1827,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Pol</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Pol</Forenames>
       <Text>, J. R</Text>
       <PageNumber>5225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Berg</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Berg</Forenames>
       <Text>, J. S</Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
-      <Text>. R. C</Text>
+      <Key>Van Der</Key>
+      <Title>Horst.</Title>
+      <Forenames>R. C.</Forenames>
       <PageNumber>3307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rhyn</Forenames>
-      <Text>, S. J</Text>
+      <Key>Van Rhyn</Key>
+      <Forenames>S. J</Forenames>
       <PageNumber>2796</PageNumber>
     </MainItem>
   </ItemGroup>

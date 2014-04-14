@@ -969,9 +969,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>H. S.</Forenames>
+      <PageNumber>6709</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>deBuse</Key>
       <Forenames>G. J</Forenames>
       <PageNumber>5086</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courtier</Key>
+      <Forenames>M. H.</Forenames>
+      <PageNumber>8951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -983,17 +997,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Normann</Forenames>
-      <Text>, A. L</Text>
+      <Key>De Normann</Key>
+      <Forenames>A. L.</Forenames>
       <PageNumber>5878</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Planta De Wildenburg</Forenames>
+      <Key>De Planta</Key>
+      <Forenames>De Wildenburg</Forenames>
       <Text>, F. M. G</Text>
+      <PageNumber>5471</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Street</Key>
+      <Forenames>R. H</Forenames>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>

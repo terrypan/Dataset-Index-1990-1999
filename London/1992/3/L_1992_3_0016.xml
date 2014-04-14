@@ -464,17 +464,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Labilliere</Forenames>
-      <Text>, S. D. D</Text>
+      <Key>de Broe-Ferguson</Key>
+      <Forenames>E. N.</Forenames>
+      <PageNumber>12670</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Labat</Key>
+      <Forenames>A. C. P.</Forenames>
+      <PageNumber>13563</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Labilliere</Key>
+      <Forenames>S. D. D.</Forenames>
       <PageNumber>15043</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mello</Forenames>
-      <Text>, W. F</Text>
+      <Key>de Mariveles</Key>
+      <Forenames>Z. V.</Forenames>
+      <PageNumber>15845</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Mello</Key>
+      <Forenames>W. F</Forenames>
       <PageNumber>15043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,17 +506,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Verdon</Forenames>
-      <Text>, C. H. L</Text>
+      <Key>De Verdon</Key>
+      <Forenames>C. H. L.</Forenames>
       <PageNumber>13140</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salaberry-Lewis</Forenames>
-      <Text>, J. H</Text>
+      <Key>De Salaberry-Lewis</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>15040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,8 +1507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>13145</PageNumber>
     </MainItem>
   </ItemGroup>

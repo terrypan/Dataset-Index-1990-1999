@@ -2,24 +2,24 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="015" pageID="https://www.thegazette.co.uk/id/London/index/year/1994/volume/4/page/015" pagePDF="https://www.thegazette.co.uk/London/index/year/1994/volume/4/page/015" pageRDF="https://www.thegazette.co.uk/London/index/year/1994/volume/4/page/015?view=linked-data" type="index" volume="4" year="1994">
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ferry Foster</Forenames>
+      <Key>De Ferry</Key>
+      <Forenames>Foster</Forenames>
       <Text>, R. J</Text>
       <PageNumber>15619</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hochepied Larpent</Forenames>
+      <Key>De Hochepied</Key>
+      <Forenames>Larpent</Forenames>
       <Text>, A. L. D</Text>
       <PageNumber>15269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>R. Richardson</Forenames>
+      <Key>De R</Key>
+      <Forenames>Richardson</Forenames>
       <Text>, O. C</Text>
       <PageNumber>15974</PageNumber>
     </MainItem>

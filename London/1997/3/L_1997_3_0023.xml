@@ -404,7 +404,9 @@
     <MainItem>
       <Key>Manners-Smith</Key>
       <Forenames>M.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>8397</PageNumber>
     </MainItem>
   </ItemGroup>

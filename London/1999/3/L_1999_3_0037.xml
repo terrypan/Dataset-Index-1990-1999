@@ -431,7 +431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trimble</Key>
-      <Text>KT</Text>
+      <Text>
+        <Honour>KT</Honour>
+      </Text>
       <PageNumber>9595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,9 +754,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beever</Forenames>
-      <Text>, J.G</Text>
+      <Key>Van Beever</Key>
+      <Forenames>J.G</Forenames>
       <PageNumber>10099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,9 +922,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Abo</Forenames>
-      <Text>, C.J</Text>
+      <Key>Von Abo</Key>
+      <Forenames>C.J</Forenames>
       <PageNumber>9835</PageNumber>
     </MainItem>
   </ItemGroup>

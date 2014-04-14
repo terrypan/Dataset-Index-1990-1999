@@ -2266,25 +2266,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, J. M</Text>
       <PageNumber>10582</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Pant</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Pant</Forenames>
       <Text>, J. C</Text>
       <PageNumber>6956</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geene</Forenames>
-      <Text>, R. G</Text>
+      <Key>Van Geene</Key>
+      <Forenames>R. G</Forenames>
       <PageNumber>10977</PageNumber>
     </MainItem>
   </ItemGroup>

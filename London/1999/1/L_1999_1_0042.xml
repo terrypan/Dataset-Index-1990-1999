@@ -72,25 +72,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beek</Forenames>
-      <Text>, L</Text>
+      <Key>Van Beek</Key>
+      <Forenames>L</Forenames>
       <PageNumber>283</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Berg</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Berg</Forenames>
       <Text>, G.G.S</Text>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Vogt</Forenames>
-      <Text>, M.A</Text>
+      <Key>Van Vogt</Key>
+      <Forenames>M.A</Forenames>
       <PageNumber>60</PageNumber>
     </MainItem>
   </ItemGroup>

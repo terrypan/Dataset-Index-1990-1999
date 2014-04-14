@@ -485,8 +485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphrey</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. V. A</Text>
+      <Forenames>A. St. V</Forenames>
+      <Text>. A</Text>
       <PageNumber>15784</PageNumber>
     </MainItem>
   </ItemGroup>

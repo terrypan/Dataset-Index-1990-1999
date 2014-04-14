@@ -404,25 +404,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Halpert</Forenames>
-      <Text>, J. M</Text>
+      <Key>De Halpert</Key>
+      <Forenames>J. M</Forenames>
       <PageNumber>11979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Monntmorency-Wright</Forenames>
-      <Text>, J. J</Text>
+      <Key>De Monntmorency-Wright</Key>
+      <Forenames>J. J</Forenames>
       <PageNumber>11658</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, N. A</Text>
+      <Key>De Soyza</Key>
+      <Forenames>N. A.</Forenames>
       <PageNumber>12923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,8 +1484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Forenames>J.C. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J.C. R. St. J</Forenames>
       <PageNumber>11657</PageNumber>
     </MainItem>
   </ItemGroup>

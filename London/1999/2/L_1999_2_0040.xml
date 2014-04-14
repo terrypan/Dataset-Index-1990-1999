@@ -1148,7 +1148,9 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>K.T. Couriers</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>5044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,14 +1206,18 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>M.C. Assured Tenancies</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5816</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>M.C. Loppington</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5340</PageNumber>
       <PageNumber>6917</PageNumber>
     </MainItem>
@@ -1219,7 +1225,9 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>M.D. Driveways</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5675</PageNumber>
       <PageNumber>6722</PageNumber>
     </MainItem>

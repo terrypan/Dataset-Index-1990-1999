@@ -738,7 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queeen</Key>
-      <Forenames>H. M. The</Forenames>
+      <Forenames>H. M.</Forenames>
+      <Text>The</Text>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,8 +753,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>Elizabeth The</Forenames>
-      <Text>Queen Mother, H. M</Text>
+      <Forenames>Elizabeth</Forenames>
+      <Text>The Queen Mother, H. M</Text>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>

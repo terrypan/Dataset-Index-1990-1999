@@ -791,7 +791,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Millett</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>12736</PageNumber>
     </MainItem>
   </ItemGroup>

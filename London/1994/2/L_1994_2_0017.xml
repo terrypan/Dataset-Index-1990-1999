@@ -144,8 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'H B</Text>
+      <Forenames>J. H. O'H B</Forenames>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1846,7 +1845,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sin</Key>
-      <Forenames>King-ki B</Forenames>
+      <Title>King-ki</Title>
+      <Forenames>B</Forenames>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2428,8 +2428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>A. R. E. De C.</Forenames>
-      <Text>. B</Text>
+      <Forenames>A. R. E. De C</Forenames>
+      <Text>. . B</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

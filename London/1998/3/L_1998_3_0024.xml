@@ -1455,7 +1455,9 @@
     <MainItem>
       <Key>Stephens</Key>
       <Forenames>H.</Forenames>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>10229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1696,7 +1698,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Storey</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>8991</PageNumber>
     </MainItem>
   </ItemGroup>

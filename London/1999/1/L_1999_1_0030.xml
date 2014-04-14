@@ -998,7 +998,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arthur</Key>
-      <Text>CH.C</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>590</PageNumber>
     </MainItem>
   </ItemGroup>

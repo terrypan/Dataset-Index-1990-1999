@@ -701,8 +701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>C. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. M. St. G</Forenames>
       <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>

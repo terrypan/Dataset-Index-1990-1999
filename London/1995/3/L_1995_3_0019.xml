@@ -803,8 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>A. W.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. W. de V</Forenames>
       <PageNumber>10178</PageNumber>
     </MainItem>
   </ItemGroup>

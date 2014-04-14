@@ -2067,17 +2067,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Veen</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Veen</Forenames>
       <Text>, M</Text>
       <PageNumber>68</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rhyn</Forenames>
-      <Text>, S. J</Text>
+      <Key>Van Rhyn</Key>
+      <Forenames>S. J .</Forenames>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>

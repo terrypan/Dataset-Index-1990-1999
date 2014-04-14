@@ -375,7 +375,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +977,9 @@
     <MainItem>
       <Key>Lees</Key>
       <Forenames>J.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>10235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2017,7 +2021,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McFarlane</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>8472</PageNumber>
     </MainItem>
   </ItemGroup>

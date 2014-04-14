@@ -207,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steele-Mortimer</Key>
-      <Forenames>H. L. De H.</Forenames>
+      <Forenames>H. L. De H</Forenames>
       <PageNumber>11486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2175,9 +2175,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Os</Forenames>
-      <Text>, S. W</Text>
+      <Key>Van Os</Key>
+      <Forenames>S. W .</Forenames>
       <PageNumber>12995</PageNumber>
     </MainItem>
   </ItemGroup>

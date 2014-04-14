@@ -1350,64 +1350,64 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. K. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. K. W</Forenames>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. J. K</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. J. K</Forenames>
       <PageNumber>99</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. L</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. L</Forenames>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A</Forenames>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. P</Forenames>
       <PageNumber>4276</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. C</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. C</Forenames>
       <PageNumber>2308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, A. J. F</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>A. J. F.</Forenames>
       <PageNumber>5672</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, C</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>C</Forenames>
       <PageNumber>1869</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, T</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T</Forenames>
       <PageNumber>4748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,22 +1434,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, R. T</Text>
+      <Key>O'Hara</Key>
+      <Forenames>R. T</Forenames>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, R. P</Text>
+      <Key>O'Kane</Key>
+      <Forenames>R. P</Forenames>
       <PageNumber>5672</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, J. J</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>J. J</Forenames>
       <PageNumber>4282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,22 +1539,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G</Forenames>
       <PageNumber>4278</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, K. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>K. M</Forenames>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M. T. C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M. T. C</Forenames>
       <PageNumber>4282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,8 +1581,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, W. C</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>W. C</Forenames>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,8 +1631,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, K. M. P</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>K. M. P.</Forenames>
       <PageNumber>2802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,8 +1653,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, K</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>K</Forenames>
       <PageNumber>103</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -368,17 +368,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Pol</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Pol</Forenames>
       <Text>, J. R</Text>
       <PageNumber>13200</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Swanenberg</Forenames>
-      <Text>, G</Text>
+      <Key>Van Swanenberg</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>9614</PageNumber>
     </MainItem>
   </ItemGroup>

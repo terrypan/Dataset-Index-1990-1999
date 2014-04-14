@@ -1757,7 +1757,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thrussell</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>7262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2321,8 +2323,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praet</Forenames>
+      <Key>Van Praet</Key>
       <Text>DAmerloo, R. P. E. M. J</Text>
       <PageNumber>6340</PageNumber>
     </MainItem>

@@ -594,41 +594,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gale</Forenames>
-      <Text>, W. H</Text>
+      <Key>De Gale</Key>
+      <Forenames>W. H</Forenames>
       <PageNumber>10136</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Labilliere</Forenames>
-      <Text>, A. M. D</Text>
+      <Key>De Labilliere</Key>
+      <Forenames>A. M. D.</Forenames>
       <PageNumber>10135</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Montmorency-Wright</Forenames>
-      <Text>, J. J</Text>
+      <Key>De Montmorency-Wright</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>6632</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>A. F</Forenames>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vries</Forenames>
-      <Text>, M. K</Text>
+      <Key>De Vries</Key>
+      <Forenames>M. K</Forenames>
       <PageNumber>7747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,9 +1298,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vallon-Lohan</Forenames>
-      <Text>, M. D</Text>
+      <Key>Du Vallon-Lohan</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>7383</PageNumber>
     </MainItem>
   </ItemGroup>

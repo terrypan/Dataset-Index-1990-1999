@@ -2274,8 +2274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>3060</PageNumber>
     </MainItem>
   </ItemGroup>

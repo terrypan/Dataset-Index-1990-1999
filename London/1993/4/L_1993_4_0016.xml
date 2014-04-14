@@ -30,33 +30,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brunner</Forenames>
-      <Text>, N. G. W</Text>
+      <Key>De Brunner</Key>
+      <Forenames>N. G. W.</Forenames>
       <PageNumber>19455</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buisseret</Forenames>
-      <Text>, A. M</Text>
+      <Key>De Buisseret</Key>
+      <Forenames>A. M.</Forenames>
       <PageNumber>18294</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ferry Foster</Forenames>
+      <Key>De Ferry</Key>
+      <Forenames>Foster</Forenames>
       <Text>, R. J</Text>
       <PageNumber>17154</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouffignac</Forenames>
-      <Text>, P</Text>
+      <Key>De Rouffignac</Key>
+      <Forenames>P</Forenames>
       <PageNumber>19460</PageNumber>
     </MainItem>
   </ItemGroup>

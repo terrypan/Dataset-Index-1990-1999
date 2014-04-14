@@ -1243,7 +1243,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryle</Key>
-      <Text>A.E. ... U</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>660</PageNumber>
       <PageNumber>11981</PageNumber>
     </MainItem>
@@ -1962,8 +1964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>14483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2273,72 +2274,74 @@
       <Key>Simmons</Key>
       <Forenames>K.</Forenames>
       <Text>M.C</Text>
-      <PageNumber>15105</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Simmons</Key>
-      <Forenames>W</Forenames>
-      <PageNumber>12284</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Simms</Key>
-      <Forenames>L. M</Forenames>
-      <PageNumber>12280</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Simpson</Key>
-      <Forenames>G. D</Forenames>
-      <PageNumber>11367</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Simpson</Key>
-      <Forenames>J. A</Forenames>
-      <PageNumber>15110</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Simpson</Key>
-      <Forenames>P. A</Forenames>
-      <PageNumber>13852</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Simpson</Key>
-      <Forenames>R.J</Forenames>
-      <PageNumber>14481</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sims</Key>
-      <Forenames>A. E</Forenames>
-      <PageNumber>14787</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sims</Key>
-      <Forenames>S. R</Forenames>
-      <PageNumber>11369</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sims</Key>
-      <Forenames>T. A. B</Forenames>
-      <PageNumber>12921</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>15105</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Simmons</Key>
+        <Forenames>W</Forenames>
+        <PageNumber>12284</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Simms</Key>
+        <Forenames>L. M</Forenames>
+        <PageNumber>12280</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Simpson</Key>
+        <Forenames>G. D</Forenames>
+        <PageNumber>11367</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Simpson</Key>
+        <Forenames>J. A</Forenames>
+        <PageNumber>15110</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Simpson</Key>
+        <Forenames>P. A</Forenames>
+        <PageNumber>13852</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Simpson</Key>
+        <Forenames>R.J</Forenames>
+        <PageNumber>14481</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sims</Key>
+        <Forenames>A. E</Forenames>
+        <PageNumber>14787</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sims</Key>
+        <Forenames>S. R</Forenames>
+        <PageNumber>11369</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sims</Key>
+        <Forenames>T. A. B</Forenames>
+        <PageNumber>12921</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>

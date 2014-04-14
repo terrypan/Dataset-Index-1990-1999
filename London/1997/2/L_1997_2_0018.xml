@@ -839,7 +839,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Attlee</Key>
-      <Forenames>The Countess</Forenames>
+      <Title>The</Title>
+      <Forenames>Countess</Forenames>
       <PageNumber>3881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>CB.K</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1609,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>5912</PageNumber>
     </MainItem>
   </ItemGroup>

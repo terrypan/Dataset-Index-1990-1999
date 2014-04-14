@@ -1123,7 +1123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrillo</Key>
-      <Text>de Albornoz, R</Text>
+      <Forenames>de Albornoz</Forenames>
+      <Text>, R</Text>
       <PageNumber>13740</PageNumber>
     </MainItem>
   </ItemGroup>

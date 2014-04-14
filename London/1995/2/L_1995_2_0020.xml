@@ -752,41 +752,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Banzie</Forenames>
-      <Text>, S. E</Text>
+      <Key>De Banzie</Key>
+      <Forenames>S. E</Forenames>
       <PageNumber>8196</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gale</Forenames>
-      <Text>, W. H</Text>
+      <Key>De Gale</Key>
+      <Forenames>W. H</Forenames>
       <PageNumber>7253</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Rosa</Forenames>
+      <Key>De La</Key>
+      <Forenames>Rosa</Forenames>
       <Text>, D. C. C</Text>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Rue</Forenames>
+      <Key>De La</Key>
+      <Forenames>Rue</Forenames>
       <Text>, T. E</Text>
       <PageNumber>7256</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mowbray</Forenames>
-      <Text>, C. J</Text>
+      <Key>De Mowbray</Key>
+      <Forenames>C. J</Forenames>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2362,8 +2359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fermoy</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord,</Text>
+      <Title>The Lord</Title>
+      <Text>,</Text>
       <PageNumber>5412</PageNumber>
     </MainItem>
   </ItemGroup>

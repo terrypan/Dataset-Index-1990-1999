@@ -747,7 +747,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>12173</PageNumber>
     </MainItem>
   </ItemGroup>

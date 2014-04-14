@@ -2,15 +2,15 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="026" pageID="https://www.thegazette.co.uk/id/London/index/year/1990/volume/2/page/026" pagePDF="https://www.thegazette.co.uk/London/index/year/1990/volume/2/page/026" pageRDF="https://www.thegazette.co.uk/London/index/year/1990/volume/2/page/026?view=linked-data" type="index" volume="2" year="1990">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, D. P</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>D. P</Forenames>
       <PageNumber>8244</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, T. E</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>T. E</Forenames>
       <PageNumber>11051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,8 +23,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, C.P.J</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>C.P.J.</Forenames>
       <PageNumber>11047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,29 +51,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman.A. P</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>A. P</Forenames>
       <PageNumber>10750</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, J. L</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>J. L</Forenames>
       <PageNumber>9781</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, CD</Text>
+      <Key>O'Hara</Key>
+      <Text>CD</Text>
       <PageNumber>8566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H. M</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H. M</Forenames>
       <PageNumber>8242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,15 +151,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M.C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M.C</Forenames>
       <PageNumber>8820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M.E.J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M.E.J</Forenames>
       <PageNumber>9780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,8 +186,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, MB</Text>
+      <Key>O'Reilly</Key>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>9161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,8 +302,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P. M</Forenames>
       <PageNumber>11052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,8 +1718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>9477</PageNumber>
     </MainItem>
   </ItemGroup>

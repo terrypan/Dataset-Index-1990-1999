@@ -1543,8 +1543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Golden</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>F. St. C</Forenames>
       <PageNumber>15782</PageNumber>
     </MainItem>
   </ItemGroup>
